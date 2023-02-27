@@ -1,0 +1,16 @@
+baseURL: https://your.site/
+languageCode: en-gb
+title: Uncertainty Toolkit for Analysts in Government
+theme: govukhugo
+publishDir: docs
+canonifyurls: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  govuk: true
+  logotext: ABC
+  product: Uncertainty Toolkit
