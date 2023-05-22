@@ -11,6 +11,11 @@ markup:
       unsafe: true
 
 params:
-  govuk: true
+  govuk: false
   logotext: ABC
-  product: Uncertainty Toolkit
+  product: Uncertainty Toolkit for Analysts in Government
+  phase: alpha
+  feedbackurl: https://your.site/feedback
+  accessibility: Accessibility/_index.md
+  privacy: privacy.md
+  contact: Contact/_index.md
